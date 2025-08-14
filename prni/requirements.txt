@@ -1,0 +1,8 @@
+cffi==1.17.1
+cryptography==45.0.6
+dotenv==0.9.9
+pycparser==2.22
+pyspnego==0.11.2
+python-dotenv==1.1.1
+smbprotocol==1.15.0
+sspilib==0.3.1
